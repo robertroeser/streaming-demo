@@ -1,0 +1,6 @@
+rootProject.name = 'streaming-demo'
+include 'client'
+include 'common'
+include 'device'
+include 'server'
+
