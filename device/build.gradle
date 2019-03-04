@@ -5,7 +5,7 @@ plugins {
 
 sourceCompatibility = 1.8
 
-mainClassName = 'io.rsocket.demo.client.ClientMain'
+mainClassName = 'io.rsocket.demo.device.RemoteDeviceMain'
 
 dependencies {
     compile project(':common')

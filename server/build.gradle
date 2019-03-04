@@ -5,7 +5,7 @@ plugins {
 
 sourceCompatibility = 1.8
 
-mainClassName = 'io.rsocket.demo.service.BrokerMain'
+mainClassName = 'io.rsocket.demo.server.ServerMain'
 
 dependencies {
     compile project(':common')
